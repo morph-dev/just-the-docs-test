@@ -1,6 +1,6 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+theme: "just-the-docs"
 exclude: ["README.md"]
 
 title: "Rugzy"
@@ -12,4 +12,3 @@ aux_links:
 # Footer content
 back_to_top: true
 back_to_top_text: "Back to top"
-
