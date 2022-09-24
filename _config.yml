@@ -1,14 +1,8 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: "just-the-docs"
-exclude: ["README.md"]
 
-title: "Rugzy"
-logo: "/assets/logo.svg"
+url: 'https://just-the-docs.github.io'
 
 aux_links:
-  "Homepage": "https://www.rugzy.xyz"
-
-# Footer content
-back_to_top: true
-back_to_top_text: "Back to top"
+  "Template Repository": "https://github.com/just-the-docs/just-the-docs-template"
