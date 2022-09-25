@@ -6,7 +6,3 @@ logo: "/assets/logo.svg"
 aux_links:
   "Site": "https://www.rugzy.xyz/"
   "App": "https://uat.rugzy.io/"
-
-# Footer content
-back_to_top: true
-back_to_top_text: "Back to top"

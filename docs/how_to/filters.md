@@ -5,7 +5,7 @@ parent: How To
 nav_order: 1
 ---
 
-# Learn more about filters
+## Learn more about filters
 
 Rugzy has filter.
 
