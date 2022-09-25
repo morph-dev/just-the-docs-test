@@ -1,5 +1,6 @@
 ---
 title: Filters
+layout: default
 parent: How To
 nav_order: 1
 ---
